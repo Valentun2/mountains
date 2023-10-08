@@ -13,6 +13,10 @@
     margin: 0px auto;
     padding: 50px 20px;
 }
+h1{
+text-align: center;
+}
+
 .parallax{
 min-height: 100vh;
 }
